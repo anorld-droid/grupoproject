@@ -27,7 +27,7 @@
   <h3 align="center">Living Lab Maps API Demo in Flutterflow</h3>
 
   <p align="center">
-    An awesome documentation on how to use [GrupoProjects](https://app.flutterflow.io/project/grupo-projects-okp8wq), the world's greatest marketplace!
+    An awesome documentation on how to use <a href="https://app.flutterflow.io/project/grupo-projects-okp8wq">GrupoProjects</a>, the world's greatest marketplace!
     <br />
     <a href="https://app.flutterflow.io/run/kdejBAZwCbukIfD9n7wb">View Demo</a>
     ·
